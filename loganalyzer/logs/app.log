@@ -1,0 +1,6 @@
+INFO User login
+INFO User logout
+ERROR Database timeout
+WARNING High CPU usage
+ERROR Permission denied
+INFO Backup complete

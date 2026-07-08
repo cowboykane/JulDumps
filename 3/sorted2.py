@@ -40,5 +40,3 @@ def get_salary(employee):
 sorted_employees = sorted(employees, key=get_salary)
 print(sorted_employees)
 
-with open("3/pathlib.py", "w") as f:
-    f.write("# erm...")
